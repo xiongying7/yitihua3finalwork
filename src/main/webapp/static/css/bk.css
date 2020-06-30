@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:black ;
+}
+.background{
+    margin-top: -30px;
+    margin-left:10% ;
+    background-color: #f8f8f8;
+    height: 100%;
+    width: 80%;
+}
