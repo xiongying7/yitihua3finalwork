@@ -54,6 +54,7 @@
                 </div>
             </div>
         </div>
+
         <div id='pick_a_color'>
             <div class='blue'></div>
             <div class='teal'></div>

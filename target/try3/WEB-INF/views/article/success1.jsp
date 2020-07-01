@@ -28,6 +28,8 @@
         </div><!-- /.container-fluid -->
     </nav>
 <h2>文章上传成功</h2>
+    <a href="${ctx}/articlew/list">点击文章维护</a>
+
 </div>
 </body>
 </html>

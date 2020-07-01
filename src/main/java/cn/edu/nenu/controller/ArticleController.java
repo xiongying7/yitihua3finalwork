@@ -44,6 +44,8 @@ public class ArticleController {
         return "article/success1";
     }
 
+
+
     @RequestMapping("/file1/download")
     public ResponseEntity download(){
 
